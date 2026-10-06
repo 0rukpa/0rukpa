@@ -8,7 +8,7 @@
 Final-year CS student at the University of Benin, Nigeria. Currently shipping.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FF1493?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lightorukpadiamonds)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF1493?style=for-the-badge&logo=vercel&logoColor=white)]((https://lightdiamonds.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF1493?style=for-the-badge&logo=vercel&logoColor=white)](https://lightdiamonds.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-FF1493?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lightdiamonds401@gmail.com)
 
 </div>
